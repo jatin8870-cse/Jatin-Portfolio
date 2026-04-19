@@ -1,5 +1,5 @@
-import React from 'react';
-import mypic from '../../assets/mypic.png.png';
+ import React from 'react';
+ import mypic from '../../assets/mypic.png';
  import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
 import TypeIt from "typeit-react";
