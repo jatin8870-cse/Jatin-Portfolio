@@ -1,39 +1,17 @@
-// Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
-// import sassLogo from './assets/tech_logo/sass.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
-// import angularLogo from './assets/tech_logo/angular.png';
-// import reduxLogo from './assets/tech_logo/redux.png';
-// import nextjsLogo from './assets/tech_logo/nextjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
-// import gsapLogo from './assets/tech_logo/gsap.png';
-// import materialuiLogo from './assets/tech_logo/materialui.png';
-// import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-// import springbootLogo from './assets/tech_logo/springboot.png';
  import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
  import mongodbLogo from './assets/tech_logo/mongodb.png';
-// import firebaseLogo from './assets/tech_logo/firebase.png';
 import cLogo from './assets/tech_logo/c.png';
-// import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
-// import typescriptLogo from './assets/tech_logo/typescript.png';
-// import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
-// import postmanLogo from './assets/tech_logo/postman.png';
-// import mcLogo from './assets/tech_logo/mc.png';
-// import figmaLogo from './assets/tech_logo/figma.png';
-// import netlifyLogo from './assets/tech_logo/netlify.png';
-//  import vercelLogo from './assets/tech_logo/vercel.png';
-// import postgreLogo from './assets/tech_logo/postgre.png';
-//  import csharpLogo from './assets/tech_logo/csharp.png';
-
-// Experience Section Logo's
  import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
@@ -117,7 +95,7 @@ export const SkillsInfo = [
       img: webverseLogo,
       role: "WordPress Developer",
       company: "Heritage Bazaar",
-      date: " June 2026 - Present",
+      date: " July 2026 - Present",
       desc: "WordPress Developer Intern: Learned WordPress website development and content management under the guidance of experienced mentors. Built and customized responsive web pages using WordPress and Elementor, updated and maintained the company website by managing pages, content, images, and layouts, installed and configured themes and plugins, performed basic WooCommerce product updates, and assisted in improving website responsiveness, performance, and user experience while collaborating with the team to deliver high-quality web solutions.",
       skills: [
         "HTML",
@@ -137,7 +115,7 @@ export const SkillsInfo = [
       img: agcLogo,
       role: "Fullstack Engineer",
       company: "AWL Metaverse",
-      date: "June 2026 - March 2026",
+      date: " May 2026 - July 2026",
       desc: "Learned modern web development concepts under the guidance of a mentor and gained hands-on experience by building real-world frontend projects. Improved proficiency in HTML, CSS, JavaScript, React.js, responsive design, and modern UI development while following industry-standard development practices..",
       skills: [
         "ReactJS",
