@@ -222,5 +222,16 @@ export const SkillsInfo = [
       github: " https://github.com/jatin8870-cse/AddNotes",
       webapp: "https://jatin8870-cse.github.io/AddNotes/",
     },
+
+     {
+      id: 5,
+      title: "Vingo Food Delivery",
+      description:
+        "A full-stack food delivery application built using the MERN stack that allows users to browse restaurants, explore menus, place orders, and manage their accounts, with secure authentication, image uploads, and a responsive user-friendly interface.",
+      image: taskremLogo,
+      tags: ["API", "HTML","Tailwind CSS","React js", "CSS", "JavaScript", "Node js", "Express js", "MongoDB"],
+      github: " https://github.com/jatin8870-cse/FoodApp",
+      webapp: "https://food-app-gamma-hazel.vercel.app"
+    },
     
 ];
