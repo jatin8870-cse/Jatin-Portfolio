@@ -25,6 +25,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/ADD_Notes.png';
+import FoodLogo from './assets/work_logo/food_app.png';
 // import npmLogo from './assets/work_logo/npm.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
@@ -228,7 +229,7 @@ export const SkillsInfo = [
       title: "Vingo Food Delivery",
       description:
         "A full-stack food delivery application built using the MERN stack that allows users to browse restaurants, explore menus, place orders, and manage their accounts, with secure authentication, image uploads, and a responsive user-friendly interface.",
-      image: taskremLogo,
+      image: FoodLogo,
       tags: ["API", "HTML","Tailwind CSS","React js", "CSS", "JavaScript", "Node js", "Express js", "MongoDB"],
       github: " https://github.com/jatin8870-cse/FoodApp",
       webapp: "https://food-app-gamma-hazel.vercel.app"
