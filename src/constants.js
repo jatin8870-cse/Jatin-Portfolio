@@ -96,7 +96,7 @@ export const SkillsInfo = [
       img: webverseLogo,
       role: "WordPress Developer",
       company: "Heritage Bazaar",
-      date: " July 2026 - Present",
+      date: " July 2026 - August 2026",
       desc: "WordPress Developer Intern: Learned WordPress website development and content management under the guidance of experienced mentors. Built and customized responsive web pages using WordPress and Elementor, updated and maintained the company website by managing pages, content, images, and layouts, installed and configured themes and plugins, performed basic WooCommerce product updates, and assisted in improving website responsiveness, performance, and user experience while collaborating with the team to deliver high-quality web solutions.",
       skills: [
         "HTML",
